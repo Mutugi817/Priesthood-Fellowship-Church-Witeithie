@@ -6,10 +6,13 @@ function Updates() {
     <div className="updates">
       <h2>Latest Event</h2>
       <div className="image">
-            <img src={assets.worship} alt="sunday poster" />
+        <img src={assets.bible_study} alt="Bible study" />
+      </div>
+      <div className="image">
+        <img src={assets.sunday1} alt="sunday poster" />
       </div>
     </div>
   )
 }
 
-export default Updates
+export default Updates;
