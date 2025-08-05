@@ -8,6 +8,12 @@ function Updates() {
       <div className="image">
         <img src={assets.worship} alt="Bible study" />
       </div>
+      <div className="image">
+        <img src={assets.bible_study} alt="Bible study" />
+      </div>
+      <div className="image">
+        <img src={assets.sunday} alt="Bible study" />
+      </div>
     </div>
   )
 }
