@@ -6,9 +6,6 @@ function Updates() {
     <div className="updates">
       <h2>Upcoming Events</h2>
       <div className="image">
-        <img src={assets.worship} alt="Bible study" />
-      </div>
-      <div className="image">
         <img src={assets.bible_study} alt="Bible study" />
       </div>
       <div className="image">
