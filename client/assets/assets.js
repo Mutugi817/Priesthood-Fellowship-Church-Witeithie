@@ -1,6 +1,6 @@
 import logo from './Pristhood-logo (2)-Photoroom.png';
-import sunday from './huduma.jpg';
-import bible_study from './worship.jpg';
+import sunday from './sunday.jpg';
+import bible_study from './biblestudy.jpg';
 
 export const assets = {
     logo,
